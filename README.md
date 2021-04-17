@@ -7,4 +7,4 @@ My Todolist using React Typescript Express MongoDB
     `npm i -g yarn`
   2. Install depenencies for each folders. Go to to `backend` and `frotend` folder and run:
     `yarn install`
-  3. Inside `backend` and `frontend` folder, you can start by running `yarn start`
+  3. Inside `backend` and `frontend` folder, you can start each by running `yarn start`
