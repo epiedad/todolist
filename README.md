@@ -1,5 +1,5 @@
 # Todolist app
-My Todolist using React Typescript Express MongoDB
+My Todolist using React Typescript Express MongoDB BootStrap
 
 ## Installation
   [Node Installation](https://nodejs.org/en/download/)
