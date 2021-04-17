@@ -1,0 +1,15 @@
+Tododlist CSS Hex colors:
+Background: #f6f7f9
+
+Button:
+ background:
+  green: #48919e
+  red: #f17167
+
+Input
+ border (soft edges) color: #bcc7e4
+ placeholder text color: #bcc7e4
+
+Global:
+ font color: #212e52
+ horizontal line color: #bcc7e4

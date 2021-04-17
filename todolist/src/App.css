@@ -1,0 +1,47 @@
+.App {
+  margin: 20px 0;
+}
+
+body {
+  background-color: #f6f7f9;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+button.add-btn.btn.btn-primary {
+  background-color: #48919e;
+  border-color: transparent;
+}
+
+button.btn-remove.btn.btn-primary, 
+button.btn-remove.btn.btn-primary:active
+ {
+  background-color: #f17167;
+  border-color: transparent;
+  float: right;
+}
+
+input#name {
+  border-width: 2px;
+  border-color: #bcc7e4;
+}
+
+.todo-completed {
+  color: #bcc7e4;
+  text-decoration: line-through;
+}
+
+.Card {
+  padding-top: 20px;
+}
+.card-name {
+  padding-left: 20px;
+}
+
+hr.todo {
+  border: 1px solid #bcc7e4;
+  border-radius: 5px;
+  margin-left: 20px;
+}
